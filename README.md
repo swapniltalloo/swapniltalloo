@@ -25,7 +25,7 @@ My work centers on:
 ### Used in projects
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,redis,docker,python,pandas,numpy,sklearn" alt="Languages, backend, data and ML technologies" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,redis,docker,python,sklearn" alt="Languages, backend, data and ML technologies" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" alt="Developer tools" />
@@ -88,7 +88,7 @@ PostgreSQL
 
 **Stack:** Python, Pandas, scikit-learn, Joblib, Streamlit
 
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn" alt="Heart disease project stack" />
+<img src="https://skillicons.dev/icons?i=python,sklearn" alt="Heart disease project stack" />
 
 An end-to-end machine learning application that predicts heart disease risk from 11 clinical inputs.
 
