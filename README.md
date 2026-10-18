@@ -54,7 +54,7 @@ FastAPI, NLP (TF-IDF, embeddings), vector search (FAISS, ChromaDB), LLM applicat
 
 ### SmartCommerce AI: E-Commerce Backend
 
-[Repository](https://github.com/swapniltalloo/SmartCommerce-AI-Backend) · [API documentation](https://smartcommerce-ai-backend.onrender.com/swagger-ui/index.html)
+[Repository](https://github.com/swapniltalloo/SmartCommerce-AI-Backend) · 
 
 **Stack:** Java 21, Spring Boot 3, Spring Security, Spring Data JPA, PostgreSQL, Redis, Docker, Swagger/OpenAPI
 
