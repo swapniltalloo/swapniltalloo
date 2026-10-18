@@ -2,7 +2,7 @@
 
 **Aspiring Software Engineer | Java Backend Development | AI/ML Engineering**
 
-B.Tech in Electronics and Computer Science. Seeking software engineering internships and placements .
+B.Tech in Electronics and Computer Science. Seeking software engineering internships and placements.
 
 [LinkedIn](https://www.linkedin.com/in/swapnil-talloo-459520320/) · [LeetCode](https://leetcode.com/u/swap060806/) · [Repositories](https://github.com/swapniltalloo?tab=repositories)
 
@@ -54,7 +54,7 @@ FastAPI, NLP (TF-IDF, embeddings), vector search (FAISS, ChromaDB), LLM applicat
 
 ### SmartCommerce AI: E-Commerce Backend
 
-[Repository](https://github.com/swapniltalloo/SmartCommerce-AI-Backend) · 
+[Repository](https://github.com/swapniltalloo/SmartCommerce-AI-Backend)
 
 **Stack:** Java 21, Spring Boot 3, Spring Security, Spring Data JPA, PostgreSQL, Redis, Docker, Swagger/OpenAPI
 
@@ -115,6 +115,20 @@ An end-to-end machine learning application that predicts heart disease risk from
 - Text classification API using TF-IDF and Logistic Regression with FastAPI
 
 Repositories will be linked once published.
+
+---
+
+## Problem Solving
+
+<p>
+  <a href="https://leetcode.com/u/swap060806/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/swap060806?theme=dark&font=Fira%20Code&ext=heatmap" />
+      <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/swap060806?theme=light&font=Fira%20Code&ext=heatmap" />
+      <img src="https://leetcard.jacoblin.cool/swap060806?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode statistics and submission heatmap" />
+    </picture>
+  </a>
+</p>
 
 ---
 
