@@ -2,7 +2,7 @@
 
 **Aspiring Software Engineer | Java Backend Development | AI/ML Engineering**
 
-B.Tech in Electronics and Computer Science. Seeking software engineering internships and placements (2028).
+B.Tech in Electronics and Computer Science. Seeking software engineering internships and placements .
 
 [LinkedIn](https://www.linkedin.com/in/swapnil-talloo-459520320/) · [LeetCode](https://leetcode.com/u/swap060806/) · [Repositories](https://github.com/swapniltalloo?tab=repositories)
 
