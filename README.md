@@ -1,6 +1,6 @@
 # Swapnil Talloo
 
-**Aspiring Software Engineer | Java Backend Development | AI/ML Engineering**
+**Java Backend Development | AI/ML **
 
 B.Tech in Electronics and Computer Science. Seeking software engineering internships and placements.
 
