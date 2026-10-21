@@ -36,7 +36,7 @@ My work centers on:
 | Languages | Java, Python, SQL |
 | Backend | Spring Boot, Spring Security, JWT, Spring Data JPA, Hibernate, Jakarta Validation, REST APIs |
 | Data and caching | PostgreSQL, Redis |
-| Machine learning | Pandas, NumPy, scikit-learn, Joblib, Matplotlib, Jupyter Notebook |
+| Machine learning | Pandas, NumPy, scikit-learn, Matplotlib, Jupyter Notebook |
 | API documentation | Swagger / OpenAPI |
 | Tools and deployment | Git, GitHub, Maven, Docker, Postman, Render, IntelliJ IDEA, VS Code |
 
